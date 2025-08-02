@@ -10,3 +10,17 @@ npm install express express-session ejs
 ```
 node index.js
 ```
+
+Steps:
+
+1. Inital setup - Local host: 3000
+2. Setup Two routers:
+
+   1. one for default
+   2. login page
+
+Step2:
+
+```
+Note: By defalut the render in get take the location: views folder
+```
