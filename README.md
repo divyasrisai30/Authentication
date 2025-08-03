@@ -19,8 +19,3 @@ Steps:
    1. one for default
    2. login page
 
-Step2:
-
-```
-Note: By defalut the render in get take the location: views folder
-```
